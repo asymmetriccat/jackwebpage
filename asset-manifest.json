@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/asymmetriccat.io/jackwebpage/static/css/main.2cce8147.chunk.css",
-    "main.js": "/asymmetriccat.io/jackwebpage/static/js/main.babcd062.chunk.js",
-    "main.js.map": "/asymmetriccat.io/jackwebpage/static/js/main.babcd062.chunk.js.map",
-    "runtime~main.js": "/asymmetriccat.io/jackwebpage/static/js/runtime~main.e8c93ebb.js",
-    "runtime~main.js.map": "/asymmetriccat.io/jackwebpage/static/js/runtime~main.e8c93ebb.js.map",
-    "static/js/2.d6a534e5.chunk.js": "/asymmetriccat.io/jackwebpage/static/js/2.d6a534e5.chunk.js",
-    "static/js/2.d6a534e5.chunk.js.map": "/asymmetriccat.io/jackwebpage/static/js/2.d6a534e5.chunk.js.map",
-    "index.html": "/asymmetriccat.io/jackwebpage/index.html",
-    "precache-manifest.37e8c5b092c0c496ac991c49beb634a5.js": "/asymmetriccat.io/jackwebpage/precache-manifest.37e8c5b092c0c496ac991c49beb634a5.js",
-    "service-worker.js": "/asymmetriccat.io/jackwebpage/service-worker.js",
-    "static/css/main.2cce8147.chunk.css.map": "/asymmetriccat.io/jackwebpage/static/css/main.2cce8147.chunk.css.map"
+    "main.css": "/jackwebpage/static/css/main.2cce8147.chunk.css",
+    "main.js": "/jackwebpage/static/js/main.345cd368.chunk.js",
+    "main.js.map": "/jackwebpage/static/js/main.345cd368.chunk.js.map",
+    "runtime~main.js": "/jackwebpage/static/js/runtime~main.e4c9470c.js",
+    "runtime~main.js.map": "/jackwebpage/static/js/runtime~main.e4c9470c.js.map",
+    "static/js/2.d6a534e5.chunk.js": "/jackwebpage/static/js/2.d6a534e5.chunk.js",
+    "static/js/2.d6a534e5.chunk.js.map": "/jackwebpage/static/js/2.d6a534e5.chunk.js.map",
+    "index.html": "/jackwebpage/index.html",
+    "precache-manifest.686d83e289000a0e3e8ecd25e95f81df.js": "/jackwebpage/precache-manifest.686d83e289000a0e3e8ecd25e95f81df.js",
+    "service-worker.js": "/jackwebpage/service-worker.js",
+    "static/css/main.2cce8147.chunk.css.map": "/jackwebpage/static/css/main.2cce8147.chunk.css.map"
   }
 }
