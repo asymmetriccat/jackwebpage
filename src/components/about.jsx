@@ -13,9 +13,9 @@ export default class About extends Component {
                                         <div className="about-desc">
                                             <span className="heading-meta">About me</span>
                                             <h2 className="colorlib-heading">Who Am I?</h2>
-                                            <p>I am a self-taught java programmer with several years working experience. He
-                                                was previously a research scientist with a Ph.D degree in chemistry. He
-                                                has more than 20 publications in top rank academic journals. He is
+                                            <p>I am a self-taught java programmer with several years working experience. I
+                                                was previously a research scientist with a Ph.D degree in chemistry. I
+                                                have more than 20 publications in top rank academic journals. I am
                                                 currently a <span
                                                 > <a href="https://www.youracclaim.com/badges/86bba8e7-40d1-4229-a5af-37694d989a99">certified professional java programmer,</a></span> and
                                                 I always enjoy studying and coding.</p>
