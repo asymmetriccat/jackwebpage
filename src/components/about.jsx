@@ -55,7 +55,7 @@ export default class About extends Component {
                 </span>
                                     <div className="desc">
                                         <h3>frontend skills</h3>
-                                        <p>Know to use HTML, CSS, javascript, reactJS, typescript, angular to build frontend web pages.
+                                        <p>Be able to use HTML, CSS, javascript, reactJS, typescript, angular to build frontend web pages.
 
                                         </p>
                                     </div>

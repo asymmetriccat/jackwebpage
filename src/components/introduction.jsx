@@ -29,7 +29,7 @@ export default class Introduction extends Component {
                     <div className="col-md-6 col-md-offset-3 col-md-pull-3 col-sm-12 col-xs-12 js-fullheight slider-text">
                       <div className="slider-text-inner">
                         <div className="desc">
-                          <h1>I love building (coding)<br /> THINGS !!</h1>
+                          <h1>I love coding!</h1>
                           <p><a className="btn btn-primary btn-learn" href="https://github.com/asymmetriccat" target="_blank" rel="noopener noreferrer">View My Projects <i className="icon-briefcase3" /></a></p>
                         </div>
                       </div>
@@ -37,7 +37,7 @@ export default class Introduction extends Component {
                   </div>
                 </div>
               </li>
-              <li style={{backgroundImage: 'url(images/img_bg_3.jpg)'}}>
+           /*   <li style={{backgroundImage: 'url(images/img_bg_3.jpg)'}}>
                 <div className="overlay" />
                 <div className="container-fluid">
                   <div className="row">
@@ -51,7 +51,7 @@ export default class Introduction extends Component {
                     </div>
                   </div>
                 </div>
-              </li>
+              </li>   */
             </ul>
           </div>
         </section>
