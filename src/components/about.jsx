@@ -44,7 +44,7 @@ export default class About extends Component {
                 </span>
                                     <div className="desc">
                                         <h3>backend skills</h3>
-                                        <p>Familiar with using java EE, Spring boot frame work to build SOAP, gRPC or RESTful web service java applications.</p>
+                                        <p>Familiar with using java EE, Spring boot to build SOAP, gRPC or RESTful web service java applications.</p>
                                     </div>
                                 </div>
                             </div>
