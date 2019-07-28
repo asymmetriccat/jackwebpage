@@ -22,14 +22,17 @@ export default class Blog extends Component {
                                     <div className="desc">
                                         <span><small>April 1, 2018 </small> | <small> reactjs </small> | <small> <i
                                             className="icon-bubble3"/> 4</small></span>
-                                        <h3><a href="blog.html"> </a>Failed to compile. ./node_modules/react-dev-utils/formatWebpackMessages.js Module not found:</h3>
-                                        <p> Today when I tried to run a react application with "yarn start". I got an error as shown in the title. Finally it was resolved by simply run " npm add @babel/runtime".
-                                           <img src = "images/blog_1_s.png"/>
+                                        <h3><a href="blog.html"> </a>Failed to compile.
+                                            ./node_modules/react-dev-utils/formatWebpackMessages.js Module not found:
+                                        </h3>
+                                        <p> Today when I tried to run a react application with "yarn start". I got an
+                                            error as shown in the title. Finally it was resolved by simply run " npm add
+                                            @babel/runtime".
+                                            <img src="images/blog_1_s.png"/>
                                         </p>
                                     </div>
                                 </div>
                             </div>
-
                         </div>
                         <div className="row">
                             <div className="col-md-12 animate-box">
