@@ -27,7 +27,7 @@ export default class Sidebar extends Component {
             <nav id="colorlib-main-menu">
               <ul>
                 <li><a href="https://www.facebook.com/guilong" target="_blank" rel="noopener noreferrer"><i className="icon-facebook2" /></a></li>
-                <li><a href="https://https://twitter.com/guilonghotmail" target="_blank" rel="noopener noreferrer"><i className="icon-twitter2" /></a></li>
+                <li><a href="https://twitter.com/guilonghotmail" target="_blank" rel="noopener noreferrer"><i className="icon-twitter2" /></a></li>
                 <li><a href="https://www.linkedin.com/in/guilong-li-6816b569/" target="_blank" rel="noopener noreferrer"><i className="icon-linkedin2" /></a></li>
                 <li><a href="https://github.com/asymmetriccat" target="_blank" rel="noopener noreferrer"><i className="icon-github"></i></a></li>
                 {/*         <li><a href="" target="_blank" rel="noopener noreferrer"><i className="icon-blogger2"></i></a></li>   */}
