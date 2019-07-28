@@ -1,9 +1,10 @@
 import React, { Component } from 'react';
 import './App.css';
-import Sidebar from './components/sidebar'
-import Introduction from './components/introduction'
-import About from './components/about'
-import Timeline from './components/timeline'
+import Sidebar from './components/sidebar';
+import Introduction from './components/introduction';
+import About from './components/about';
+import Timeline from './components/timeline';
+import Blog from './components/blog';
 
 function App() {
   return (
@@ -14,6 +15,7 @@ function App() {
             <Introduction></Introduction>
             <About></About>
             <Timeline></Timeline>
+              <Blog></Blog>
           </div>
         </div>
       </div>
