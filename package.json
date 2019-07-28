@@ -2,9 +2,9 @@
   "name": "jackliwegpageatgithub",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://github.com/asymmetriccat.io/jackwebpage",
+  "homepage": "https://asymmetriccat.github.io/jackwebpage",
   "dependencies": {
-    "gh-pages": "^2.0.1",
+    "@babel/runtime": "^7.5.5",
     "react": "^16.8.6",
     "react-dom": "^16.8.6",
     "react-scripts": "3.0.1"
@@ -31,5 +31,8 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
+  },
+  "devDependencies": {
+    "gh-pages": "^2.0.1"
   }
 }

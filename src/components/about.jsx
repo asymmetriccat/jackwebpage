@@ -13,12 +13,12 @@ export default class About extends Component {
                                         <div className="about-desc">
                                             <span className="heading-meta">About me</span>
                                             <h2 className="colorlib-heading">Who Am I?</h2>
-                                            <p>Jack is a self-taught java programmer with several years working experience. He
+                                            <p>I am a self-taught java programmer with several years working experience. He
                                                 was previously a research scientist with a Ph.D degree in chemistry. He
                                                 has more than 20 publications in top rank academic journals. He is
                                                 currently a <span
                                                 > <a href="https://www.youracclaim.com/badges/86bba8e7-40d1-4229-a5af-37694d989a99">certified professional java programmer,</a></span> and
-                                                he always enjoys studying and coding.</p>
+                                                I always enjoy studying and coding.</p>
                                             <p>I believe: "The only way to do great work is to love what you do. If you haven't found it yet, keep looking. Don't settle." ―Steve Jobs </p>
                                         </div>
                                     </div>
