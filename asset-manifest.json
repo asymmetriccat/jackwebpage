@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/asymmetriccat/jackwebpage/static/css/main.2cce8147.chunk.css",
+    "main.js": "/asymmetriccat/jackwebpage/static/js/main.c5185ba3.chunk.js",
+    "main.js.map": "/asymmetriccat/jackwebpage/static/js/main.c5185ba3.chunk.js.map",
+    "runtime~main.js": "/asymmetriccat/jackwebpage/static/js/runtime~main.579cf0c1.js",
+    "runtime~main.js.map": "/asymmetriccat/jackwebpage/static/js/runtime~main.579cf0c1.js.map",
+    "static/js/2.d6a534e5.chunk.js": "/asymmetriccat/jackwebpage/static/js/2.d6a534e5.chunk.js",
+    "static/js/2.d6a534e5.chunk.js.map": "/asymmetriccat/jackwebpage/static/js/2.d6a534e5.chunk.js.map",
+    "index.html": "/asymmetriccat/jackwebpage/index.html",
+    "precache-manifest.678654fd5e8816291a1720ea588c8776.js": "/asymmetriccat/jackwebpage/precache-manifest.678654fd5e8816291a1720ea588c8776.js",
+    "service-worker.js": "/asymmetriccat/jackwebpage/service-worker.js",
+    "static/css/main.2cce8147.chunk.css.map": "/asymmetriccat/jackwebpage/static/css/main.2cce8147.chunk.css.map"
+  }
+}
