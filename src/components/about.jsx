@@ -46,7 +46,7 @@ export default class About extends Component {
                     <i className="icon-bulb"/>
                 </span>
                                     <div className="desc">
-                                        <h3>backend skills</h3>
+                                        <h3>backend</h3>
                                         <p>Familiar with using java EE, Spring boot to build SOAP, gRPC or RESTful web
                                             service java applications.</p>
                                     </div>
@@ -58,7 +58,7 @@ export default class About extends Component {
                     <i className="icon-phone3"/>
                 </span>
                                     <div className="desc">
-                                        <h3>frontend skills</h3>
+                                        <h3>frontend</h3>
                                         <p>Be able to use HTML, CSS, BootStrap, javascript, reactJS, typescript, angular
                                             to build frontend web pages.
                                         </p>
