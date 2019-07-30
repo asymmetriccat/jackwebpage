@@ -36,14 +36,44 @@
     <script src="js/respond.min.js"></script>
     <![endif]-->
 
-    <title>Hello!!</title>
+    <title>blog page</title>
 </head>
 <body>
 <noscript>You need to enable JavaScript to run this app.</noscript>
 
 <div id="blog">
 
-    <h1>Sorry, this page is not available yet...</h1>
+    <section className="colorlib-blog" data-section="blog">
+        <div className="colorlib-narrow-content">
+            <div className="row">
+                <div className="col-md-6 col-md-offset-3 col-md-pull-3 animate-box"
+                     data-animate-effect="fadeInLeft">
+                    <h2 className="colorlib-heading">Recent Blog</h2>
+                </div>
+            </div>
+            <div className="row">
+                <div className="col-md-4 col-sm-6 animate-box" data-animate-effect="fadeInLeft">
+                    <div className="blog-entry">
+                        <a href="blog.html" className="blog-img"><img src="images/blog-1.jpg"
+                                                                      className="img-responsive"
+                                                                      alt="HTML5 Bootstrap Template by colorlib.com"/></a>
+                        <div className="desc">
+                                        <span><small>April 1, 2018 </small> | <small> reactjs </small> | <small> <i
+                                                className="icon-bubble3"/> 4</small></span>
+                            <h3><a href="blog.html"> </a>Failed to compile.
+                                ./node_modules/react-dev-utils/formatWebpackMessages.js Module not found:
+                            </h3>
+                            <p> Today when I tried to run a react application with "yarn start". I got an
+                                error as shown in the title. Finally it was resolved by simply run " npm add
+                                @babel/runtime".
+                            </p>
+                            <div><img src="images/blog_1_s.png"/></div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
 </div>
 
 <!-- jQuery -->
