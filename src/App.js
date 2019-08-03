@@ -15,7 +15,7 @@ function App() {
             <Introduction></Introduction>
             <About></About>
             <Timeline></Timeline>
-              <Blog></Blog>
+              {/*<Blog></Blog>*/}
           </div>
         </div>
       </div>

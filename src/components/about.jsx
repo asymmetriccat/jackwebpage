@@ -21,7 +21,7 @@ export default class About extends Component {
                                                 > <a
                                                     href="https://www.youracclaim.com/badges/86bba8e7-40d1-4229-a5af-37694d989a99">certified professional java programmer,</a></span> and
                                                 I always enjoy studying and coding.</p>
-                                            <p>I believe: "The only way to do great work is to love what you do. If you
+                                            <p> "The only way to do great work is to love what you do. If you
                                                 haven't found it yet, keep looking. Don't settle." ―Steve Jobs </p>
                                         </div>
                                     </div>
