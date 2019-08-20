@@ -34,6 +34,23 @@ export default class Timeline extends Component {
                       </div>
                     </div>
                   </article>
+
+                  <article className="timeline-entry animate-box" data-animate-effect="fadeInLeft">
+                    <div className="timeline-entry-inner">
+                      <div className="timeline-icon color-7">
+                        <i className="icon-pen2" />
+                      </div>
+                      <div className="timeline-label">
+                        <h2>Full Stack software engineer Self-Employed <span>04/2016-11/2017</span></h2>
+                        <p> <ul>
+                          <li>Develop chemistry related web applications using java, Spring boot, Thymeleaf, Bootstrap and mysql.
+                          </li>
+
+                        </ul> </p>
+                      </div>
+                    </div>
+                  </article>
+
                   <article className="timeline-entry animate-box" data-animate-effect="fadeInTop">
                     <div className="timeline-entry-inner">
                       <div className="timeline-icon color-4">
