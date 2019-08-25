@@ -27,7 +27,7 @@ export default class Timeline extends Component {
                           </li>
                           <li>Complete more than 20 web service client micro service projects. These projects are built based on Spring boot framework, JPA to persistent data, and gRPC services.
                           </li>
-                          <li>Developed 6 SOAP web service clients independently. All of those micro-service java spring boot projects were built in Docker images and deployed in k8s with Continuing Integration.
+                          <li>Developed many SOAP web service clients independently. All of those micro service java spring boot projects were built in Docker images and deployed in k8s with Continuing Integration.
                           </li>
                           <li>Maintain java back-end applications and fix bugs. Add new function integrations upon customers’ requests. </li>
                         </ul> </p>
@@ -41,12 +41,13 @@ export default class Timeline extends Component {
                         <i className="icon-pen2" />
                       </div>
                       <div className="timeline-label">
-                        <h2>Full Stack software engineer Self-Employed <span>04/2016-11/2017</span></h2>
-                        <p> <ul>
-                          <li>Develop chemistry related web applications using java, Spring boot, Thymeleaf, Bootstrap and mysql.
-                          </li>
-
-                        </ul> </p>
+                        <h2>Java developer Self-Employed <span>04/2016-11/2017</span></h2>
+                        <p>
+                          <ul>
+                          <li>Take online java courses from oracle university and other websites. Self study courses for software engineer. Those courses including algorithms, data structures, database, and frontend tech skills such as javascript, html, css, etc.</li>
+                          <li>Maintain java backend service for a small e-business application.  Develop chemistry related full stack web applications using java, Spring boot, Thymeleaf, Bootstrap and mysql.</li>
+                        </ul>
+                        </p>
                       </div>
                     </div>
                   </article>
@@ -59,10 +60,7 @@ export default class Timeline extends Component {
                       <div className="timeline-label">
                         <h2>Research Scientist at University of South Florida <span> 08/2011-04/2016 </span></h2>
                         <p><ul>
-                          <li>Design and synthesis of small organic molecules for anti-cancer drug discovery.
-                          </li>
-                          <li>Development of novel asymmetric reactions catalyzed by small chiral organic molecules.
-                          </li>
+                          <li>Design and synthesis of small organic molecules for anti-cancer drug discovery. Develop novel reaction methodologies.</li>
                           <li>Build websites and data base for the research group.</li>
                         </ul></p>
                       </div>
