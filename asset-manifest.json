@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/jackwebpage/static/css/main.2cce8147.chunk.css",
-    "main.js": "/jackwebpage/static/js/main.8d40e1d8.chunk.js",
-    "main.js.map": "/jackwebpage/static/js/main.8d40e1d8.chunk.js.map",
+    "main.css": "/jackwebpage/static/css/main.ba49ec77.chunk.css",
+    "main.js": "/jackwebpage/static/js/main.d5cad259.chunk.js",
+    "main.js.map": "/jackwebpage/static/js/main.d5cad259.chunk.js.map",
     "runtime~main.js": "/jackwebpage/static/js/runtime~main.e4c9470c.js",
     "runtime~main.js.map": "/jackwebpage/static/js/runtime~main.e4c9470c.js.map",
     "static/js/2.d6a534e5.chunk.js": "/jackwebpage/static/js/2.d6a534e5.chunk.js",
     "static/js/2.d6a534e5.chunk.js.map": "/jackwebpage/static/js/2.d6a534e5.chunk.js.map",
     "index.html": "/jackwebpage/index.html",
-    "precache-manifest.b62433d0c4e07020cead6767ffa0a4ff.js": "/jackwebpage/precache-manifest.b62433d0c4e07020cead6767ffa0a4ff.js",
+    "precache-manifest.88f966f81b2e46ba8dda6e38c3c4a21a.js": "/jackwebpage/precache-manifest.88f966f81b2e46ba8dda6e38c3c4a21a.js",
     "service-worker.js": "/jackwebpage/service-worker.js",
-    "static/css/main.2cce8147.chunk.css.map": "/jackwebpage/static/css/main.2cce8147.chunk.css.map"
+    "static/css/main.ba49ec77.chunk.css.map": "/jackwebpage/static/css/main.ba49ec77.chunk.css.map"
   }
 }
