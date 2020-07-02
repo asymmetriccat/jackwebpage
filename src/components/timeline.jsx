@@ -15,6 +15,44 @@ export default class Timeline extends Component {
             <div className="row">
               <div className="col-md-12">
                 <div className="timeline-centered">
+
+                  <article className="timeline-entry animate-box" data-animate-effect="fadeInLeft">
+                    <div className="timeline-entry-inner">
+                      <div className="timeline-icon color-5">
+                        <i className="icon-pen2" />
+                      </div>
+                      <div className="timeline-label">
+                        <h2>Software Engineer 2 at Arvest bank <span>11/2019-present</span></h2>
+                        <p> <ul>
+                          <li>Develop RESTful microservice APIs for middleware.
+                          </li>
+                          <li>
+                            Java, esql and C#.
+                          </li>
+                        </ul> </p>
+                      </div>
+                    </div>
+                  </article>
+
+                  <article className="timeline-entry animate-box" data-animate-effect="fadeInLeft">
+                    <div className="timeline-entry-inner">
+                      <div className="timeline-icon color-1">
+                        <i className="icon-pen2" />
+                      </div>
+                      <div className="timeline-label">
+                        <h2>Java Backend developer at Walmart e-commerce (contract) <span>9/2019-11/2019</span></h2>
+                        <p> <ul>
+                          <li>Integration of BigID for Walmart brand stores.
+                            Develop RESTful microservices and tech stack using java Spring boot, hibernate and MSSQL database.
+                          </li>
+                          <li>
+                            Develop RESTful microservices and tech stack using java Spring boot, hibernate and MSSQL database.
+                          </li>
+                        </ul> </p>
+                      </div>
+                    </div>
+                  </article>
+
                   <article className="timeline-entry animate-box" data-animate-effect="fadeInLeft">
                     <div className="timeline-entry-inner">
                       <div className="timeline-icon color-3">
@@ -25,7 +63,7 @@ export default class Timeline extends Component {
                         <p> <ul>
                           <li>Participate actively in the complete backend development lifecycle, including design, development, and testing.
                           </li>
-                          <li>Complete more than 20 web service client micro service projects. These projects are built based on Spring boot framework, JPA to persistent data, and gRPC services.
+                          <li>Complete more than 20 web service client microservice projects. These projects are built based on Spring boot framework, JPA to persistent data, and gRPC services.
                           </li>
                           <li>Developed many SOAP web service clients independently. All of those micro service java spring boot projects were built in Docker images and deployed in k8s with Continuing Integration.
                           </li>
